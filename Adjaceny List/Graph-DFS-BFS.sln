@@ -13,7 +13,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prim MST", "..\Prim MST\Pri
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra", "Dijkstra\Dijkstra.vcxproj", "{95DA70C8-1627-47B4-AAF9-E0B1D64EB662}"
 EndProject
+<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strongly Connected Component", "..\Strongly Connected Component\Strongly Connected Component.vcxproj", "{1EBC0B64-A4C8-45B3-966B-3A2BF6A45BC3}"
+=======
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bellman Ford", "..\Bellman Ford\Bellman Ford.vcxproj", "{21139F2A-6D40-47AD-AD78-9FB6ABB73B9D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ford-Fulkerson", "..\Ford-Fulkerson\Ford-Fulkerson.vcxproj", "{8D31737B-8D2E-444C-A7DB-21425CAD2713}"
+>>>>>>> a1ae9fd1e9208c49e2d1b77c98edd00bbe522d1b
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,10 +51,21 @@ Global
 		{95DA70C8-1627-47B4-AAF9-E0B1D64EB662}.Debug|Win32.Build.0 = Debug|Win32
 		{95DA70C8-1627-47B4-AAF9-E0B1D64EB662}.Release|Win32.ActiveCfg = Release|Win32
 		{95DA70C8-1627-47B4-AAF9-E0B1D64EB662}.Release|Win32.Build.0 = Release|Win32
+<<<<<<< HEAD
 		{1EBC0B64-A4C8-45B3-966B-3A2BF6A45BC3}.Debug|Win32.ActiveCfg = Debug|Win32
 		{1EBC0B64-A4C8-45B3-966B-3A2BF6A45BC3}.Debug|Win32.Build.0 = Debug|Win32
 		{1EBC0B64-A4C8-45B3-966B-3A2BF6A45BC3}.Release|Win32.ActiveCfg = Release|Win32
 		{1EBC0B64-A4C8-45B3-966B-3A2BF6A45BC3}.Release|Win32.Build.0 = Release|Win32
+=======
+		{21139F2A-6D40-47AD-AD78-9FB6ABB73B9D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21139F2A-6D40-47AD-AD78-9FB6ABB73B9D}.Debug|Win32.Build.0 = Debug|Win32
+		{21139F2A-6D40-47AD-AD78-9FB6ABB73B9D}.Release|Win32.ActiveCfg = Release|Win32
+		{21139F2A-6D40-47AD-AD78-9FB6ABB73B9D}.Release|Win32.Build.0 = Release|Win32
+		{8D31737B-8D2E-444C-A7DB-21425CAD2713}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D31737B-8D2E-444C-A7DB-21425CAD2713}.Debug|Win32.Build.0 = Debug|Win32
+		{8D31737B-8D2E-444C-A7DB-21425CAD2713}.Release|Win32.ActiveCfg = Release|Win32
+		{8D31737B-8D2E-444C-A7DB-21425CAD2713}.Release|Win32.Build.0 = Release|Win32
+>>>>>>> a1ae9fd1e9208c49e2d1b77c98edd00bbe522d1b
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

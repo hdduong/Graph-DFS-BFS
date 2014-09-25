@@ -1,9 +1,9 @@
-﻿Build started 9/21/2014 12:42:46 PM.
-     1>Project "D:\PI\Graph-DFS-BFS\Adjaceny List\Adjaceny List.vcxproj" on node 2 (Build target(s)).
+﻿Build started 9/24/2014 1:14:59 PM.
+     1>Project "C:\PI\Graph-DFS-BFS\Adjaceny List\Adjaceny List.vcxproj" on node 2 (Build target(s)).
      1>Link:
-         Adjaceny List.vcxproj -> D:\PI\Graph-DFS-BFS\Adjaceny List\Debug\Adjaceny List.exe
-     1>Done Building Project "D:\PI\Graph-DFS-BFS\Adjaceny List\Adjaceny List.vcxproj" (Build target(s)).
+         Adjaceny List.vcxproj -> C:\PI\Graph-DFS-BFS\Adjaceny List\Debug\Adjaceny List.exe
+     1>Done Building Project "C:\PI\Graph-DFS-BFS\Adjaceny List\Adjaceny List.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.05
+Time Elapsed 00:00:00.06
